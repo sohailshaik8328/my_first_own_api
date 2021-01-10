@@ -1,0 +1,34 @@
+{
+    "movies" : [
+        {
+            "id" : 0,
+            "name" : "Ala VaikuntaPuram lo",
+            "date" : "2020",
+            "image" : "https://www.filmibeat.com/ph-big/2019/10/ala-vaikunthapurramloo_157104662800.jpg"
+        },
+        {
+            "id" : 1,
+            "name" : "Avengers Infinity War",
+            "date" : "2019",
+            "image" : "https://wallit.in/pub/media/catalog/product/cache/9b736478c52626bad9b81dd284964bfc/3/7/37_nrkvoekanmf1qjph.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Goodhachari",
+            "date" : "2019",
+            "image" : "https://www.filmibeat.com/ph-big/2018/08/goodachari_153362539030.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "KGF-2",
+            "date" : "2020",
+            "image" : "https://s3.india.com/wp-content/uploads/2019/12/pjimage-12-6.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "Fast&Furious-9",
+            "date" : "2020",
+            "image" : "https://i.pinimg.com/originals/00/9a/08/009a08718281d4460b3f8ed741b0618a.jpg"
+        }                    
+    ]
+}
